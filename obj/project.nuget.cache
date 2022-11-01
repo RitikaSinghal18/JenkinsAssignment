@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6M/dErOOwGtO4jM7sjVk4iJMi2/RxiC+VqPoRQQUVE5KZn1Uxbv7Lsu/cU0hL3tu53Rmp4dbOy2Hh9ctospsgg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\RSinghal\\source\\repos\\Training\\JenkinsAssignment\\JenkinsAssignment\\JenkinsAssignment.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\RSinghal\\source\\repos\\ConfigurationAssignment\\Configuration Framework\\Packages' doesn't exist.",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
+    }
+  ]
+}
